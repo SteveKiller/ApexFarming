@@ -20,3 +20,9 @@ pip install opencv-python
 
 
 NOTE: this is made to farm ranked aswell so it well only leave the game when the full team dead's.
+
+
+
+for more information on how this work
+https://github.com/KianBrose/Image-Recognition-Botting-Tutorial
+https://www.youtube.com/watch?v=YRAIUA-Oc1Y&ab_channel=KianBrose
