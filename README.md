@@ -1,6 +1,6 @@
 # ApexFarming
 
-Hello this is a basic python script that just looking for thinks on your screen and if its found it well press keys, this is make for Apex for afk farming, because getting to level 10 is annoying.
+Hello this is a basic python script, that just looking for thinks on your screen and if its founds a match it well press keys, this is made for Apex afk farming, because getting to level 10 is annoying.
 
 https://www.unknowncheats.me/forum/apex-legends/464685-apexfarming.html
 
