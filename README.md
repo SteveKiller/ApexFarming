@@ -6,8 +6,11 @@ this is make for Apex for afk farming, becouse getting to level 10 is annoying.
 HOW TO USE: 
 
 pip install pywin32
+
 pip install keyboard
+
 pip install pyautogui
+
 pip install opencv-python
 
 
