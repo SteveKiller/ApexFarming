@@ -4,7 +4,6 @@ import time
 import keyboard
 import random
 import win32api, win32con
-import win32com.client as comclt
 
 def click(x,y):
     win32api.SetCursorPos((x,y))
