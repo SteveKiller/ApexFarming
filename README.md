@@ -1,9 +1,8 @@
 # ApexFarming
 
-Hello this is a basic python scrip that just looking for thinks on your screen and if its found it well press keys, 
-this is make for Apex for afk farming, becouse getting to level 10 is annoying.
+Hello this is a basic python script that just looking for thinks on your screen and if its found it well press keys, this is make for Apex for afk farming, because getting to level 10 is annoying.
 
-HOW TO USE: 
+HOW TO USE: https://www.youtube.com/watch?v=jDW0c-3qCkA&ab_channel=SteveKiller176
 
 pip install pywin32
 
