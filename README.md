@@ -14,6 +14,11 @@ pip install pyautogui
 
 pip install opencv-python
 
+if your getting a The Pillow package is required to use this function. error 
+
+pip install Pillow --upgrade
+
+should fix it
 
 
 
