@@ -5,7 +5,8 @@ Hello this is a basic python script, that just looking for thinks on your screen
 https://www.unknowncheats.me/forum/apex-legends/464685-apexfarming.html
 
 HOW TO USE: https://www.youtube.com/watch?v=jDW0c-3qCkA&ab_channel=SteveKiller176
-
+ 
+ 
 pip install pywin32
 
 pip install keyboard
