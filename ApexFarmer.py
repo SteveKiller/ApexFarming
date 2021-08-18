@@ -48,7 +48,7 @@ while keyboard.is_pressed('q') == False:
          time.sleep(0.5)
          click(850, 713)
          
-    if pyautogui.locateOnScreen('jump.PNG', region=(715,743,513,304), grayscale=True, confidence=0.6) != None:
+    if pyautogui.locateOnScreen('jump.PNG', region=(715,743,513,304), grayscale=True, confidence=0.9) != None:
          keyboard.press_and_release('Enter')
          time.sleep(0.5)
          keyboard.press_and_release('L')
