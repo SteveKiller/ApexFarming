@@ -1,4 +1,5 @@
 @ECHO OFF
+python -V
 PAUSE
 pip install pywin32
 
