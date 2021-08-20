@@ -1,6 +1,8 @@
 @ECHO OFF
 python -V
 PAUSE
+pip install PyScreeze
+
 pip install pywin32
 
 pip install keyboard
