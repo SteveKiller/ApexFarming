@@ -1,26 +1,42 @@
 @ECHO OFF
 color 02
 ECHO Thanks you for using my auto farmer By:stevekiller176#3548
-ECHO to start press any key on your keyboard :)
 PAUSE
-
-ECHO _________________________$$$$$$$________________
-ECHO ________________________$$$$$$$$$$______________
-ECHO ________________________$$$$$$$$$$$_____________
-ECHO _________________________$$$$$$$$$$$$$$_________
-ECHO __________________________$$$$$$$$$$$___________
-ECHO _____________________________$$$$$$$$$$$$$______
-ECHO ___________________________$$$$$$$$$$___________
-ECHO _________________________$$$$$$$$$$$$$$$________
-ECHO ________________$$$______$$$$$$$$$$$$$$_________
-ECHO ______________$$$$$$$$_____$$$$$$__$$$$$________
-ECHO _____________$$$$$$$$$$_____$$$$____$$$$$_______
-ECHO ___________$$$$$$_$$$$$$$$__$$$$______$$$$______
-ECHO __________$$$$$_____$$$$$$$$_$$$$_______$$$_____
-ECHO ________$$$$$_________$$$$$$$$$$$$_______$$$____
-ECHO _______$$$_____________$$$$$$$$$$$________$$$___
-ECHO _____$$$________________$$$$$$$$$$________$$$$$$
-ECHO __$$$$$$__________________$$$$$$$_______________
+color 01
+ECHO mNNNNNNmmmmmddddddddhdhhhdhhhhhyyysssssssoooooooooooooooooosssssssyhhhhhddhhdddddddmmmmmmmdmmmmmmNNN
+ECHO NNNNNNNmmmmdddddddhhdhddhhhyyyyssssooooo+++//::::----::://++oossssyyyhyhhhhddddddddddmmmmmmmmmmmNNNN
+ECHO NNNmNmmmmmdddhdddhhhhhhhhyyyssssso+o++/:-...````````````....-:/+oossssyyyhhhhhhddddddmmmmdmmmmmNNNNN
+ECHO mmmmmmmddmdddhddhhhhhyyyyyoossoo+++:-.``````.-//+++++/:-````...--/+oosssyyyyhhhhdddddddmmmmmmmmmmmNN
+ECHO mmmmmmmhddddhdhhhhdhyyyysoooo+++/-.````-/shNMMMMMMMMMMMMNdy+:```..-:/+osssyyyyyhhhhdddddmmmmmmmmmmNN
+ECHO dmmmddddddddhhhhhhhyyysoooo++/:-.```-odNMMMMMMMMMMMMMMMMMMMMNmy/```.-:/+ossyyyyyhhhhddddddmmmmmmmmmm
+ECHO mmmdddhdddhhhhhhhhyyssooo++//-.```/hNMMMMMMMMMMMMMMMMMMMMMMMMMMMmo.``.-:/+osyyyyyyyhhhhhddddmmmmmmmm
+ECHO dmddddhhhhhhhhhhhssssooo+//:.```/dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmo.`.-::/osyyyyyyyhhhhddddmmmmddmm
+ECHO dddhhhhhhhhhhhhhysss+oo//:-.``.yNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm/``-::/ossyyyyyyhhddddddmmmmmmm
+ECHO ddhhhhyyyyyyyyhysss+++//:-.``-mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNo``.::/oosyyyyyhhhhhddddmmmmmm
+ECHO dmddhhhyhhhyhyysss++o//:-.``:mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMs``.::/ooyyyyyyhhhhdddddmmdmm
+ECHO mmddyhhhyhyyyyssso+++/:--``.mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMo``-::/ossyyyyyhhhddddddmmmm
+ECHO mmddyyhhyyhyhyysso+o//:-```yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN-``:/:+osyyyyyyhhhddhsdmmmm
+ECHO dmdddhhyyyyyyyssoo+o/:-.``-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMy``.::/ossyyyysyhdddddmmmmm
+ECHO mmddddhhhyysyysso+o+::..``oMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN``.:/:oosyyyyyyhhddddmmmmm
+ECHO mmmdddhhyyhhyyssoo+/::..``hMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM-``-/:+osysyyyyyhddddddmmm
+ECHO mmmdddhhhyhyyysso/o/::..``dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM:``-/:+osyyyyyyyhhddddmdmm
+ECHO mmmddddhhhhhyyssooo+/-..``yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM-`.-//+ssyyyyyyyhhdddddddm
+ECHO mmmmdddhhhhyyyssoo++/:.```+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN``.-//+ssyyyyyyyhhdddddddm
+ECHO mmddddddhyhhyyssso+o/:-.``.NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMs``.://+ssyyyyyhhhhdddddmmm
+ECHO mmmmdddddhhhyyyssoo++/-.```+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN.`.-//+osyyyyhhhhhhddmdmmdm
+ECHO mmmdddddddhhhyyyssooo/:-.```yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN/``.://ossyyyhhhdhhhddmdmmmm
+ECHO mmmddddddddhhhyyssooo+/:..```hMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN+``.-//+osyyhhhhhdhhdddmmmmmN
+ECHO mmmdddddddddhhhyyssoooo/:..```sNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm/``.-//+osyyyhhhhddhhdddmdmmmN
+ECHO mmddddddddhhhhhyhyssooo+/:-.```/mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNh-`..-/++osyyyhhhhhdddhhdmmmmmNN
+ECHO mmmmddddhhhyhhhyyhyssoo++/:-.```.omMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMd/``.-:/++osyyyhhhhhhddddddmmmmmmN
+ECHO mmmmdddddddhhhhhhyhyssooo++/:-.`` `+dNMMMMMMMMMMMMMMMMMMMMMMMMMNh/``.--:/+oosyyyyyyyhhddddddmmmmmmmN
+ECHO Nmmmdddddddhhhhhyyhyyyssooo+/:--.``` -odNMMMMMMMMMMMMMMMMMMMNh+.``..-:/++ossyyyhhhyhhhddddddmmmmmmNN
+ECHO Nmmmmmhdddddhhhyhhhhhyyyssoo++/::-..`````:oydmMMMMMMMMNmhs+:````.--:/++oosyyyyhhhyyhhhhdddddmmmmmmNN
+ECHO mmmmmhmddddddddhhhhhhyyhhyssoo+++/::--..```````..---..``````..--:/+++oosyyyyhhhhhhhddhddddddmmmmmmNN
+ECHO mmmmmmmddddddddddhhhhhhyyhyysso++++//:::--......`````.....--://+++oossyyyyyhyyhhhhhddddddddmmmmNmmNN
+ECHO Nmmmmmmmmdddhddddddhhhhyhhhhyyssoo+++++////::::-----::::///+++ooossyyyyyyyyyhhhhhdddddddmdmmmmmNNNNN
+ECHO NNmmmmmdmddddddhhddddhhyyhhhhhyyyyssooo++++++//+//////+++++oooosyyyyyyhyyhyhhdddhdddddmmmmmmNNNNNNNN
 
 ECHO Note: Ctle + C well kill the program
 Python ApexFarmer.py
+pause
