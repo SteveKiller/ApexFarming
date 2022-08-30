@@ -7,11 +7,11 @@ import random
 Random = ['a','w','s','d','4','q','1','2','3','4']
 
 while True:
-    if pyautogui.locateOnScreen('ManuNotReady.png', region=(0,538,447,528), grayscale=True, confidence=0.5) != None:
+    if pyautogui.locateOnScreen('ManuNotReady.png', region=(0,538,447,528), grayscale=True, confidence=0.7) != None:
         pyautogui.click(230, 950)
         time.sleep(0.5)
      
-    if pyautogui.locateOnScreen('ManuNotReady2.png', region=(0,538,447,528), grayscale=True, confidence=0.5) != None:
+    if pyautogui.locateOnScreen('ManuNotReady2.png', region=(0,538,447,528), grayscale=True, confidence=0.7) != None:
         pyautogui.click(230, 950)
         time.sleep(0.5)
         
@@ -20,7 +20,7 @@ while True:
         time.sleep(0.5)
         pyautogui.click(171, 675)
                 
-    if pyautogui.locateOnScreen('ManuReady.png', region=(0,538,447,528), grayscale=True, confidence=0.5) != None:
+    if pyautogui.locateOnScreen('ManuReady.png', region=(0,538,447,528), grayscale=True, confidence=0.7) != None:
          print("Waiting for game")
          time.sleep(5)
     
